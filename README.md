@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-🔹 **Backend Engineer with 4+ years of experience** specializing in **scalable backend systems, APIs, and cloud infrastructure**.
+🔹 **Backend Engineer with 5+ years of experience** specializing in **scalable backend systems, APIs, and cloud infrastructure**.
 🔹 Passionate about **optimizing system performance, building cloud-native architectures, and developing efficient backend solutions**.
 🔹 Skilled in **Python (FastAPI, Django, Flask), Java, DevOps (AWS, GCP, Kubernetes, ArgoCD), and system optimizations**.
 🔹 Always exploring **new technologies and best practices** in cloud computing and distributed systems.
@@ -45,11 +45,11 @@ A **web-based inventory system** designed for **tracking and managing lab equipm
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-attari&show_icons=true&theme=github_dark" alt="Husain's GitHub Stats"/>
+  <img src="https://github-readme-stats-dun-nine-98.vercel.app/api?username=h-attari&show_icons=true&theme=github_dark" alt="Husain's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-attari&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats-dun-nine-98.vercel.app/api/top-langs/?username=h-attari&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
 
 ---
