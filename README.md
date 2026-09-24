@@ -45,7 +45,7 @@ A **web-based inventory system** designed for **tracking and managing lab equipm
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-dun-nine-98.vercel.app/api?username=h-attari&show_icons=true&theme=github_dark" alt="Husain's GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=h-attari&show_icons=true&theme=github_dark" alt="Husain's GitHub Stats"/>
 </p>
 
 <p align="center">
