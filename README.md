@@ -49,7 +49,7 @@ A **web-based inventory system** designed for **tracking and managing lab equipm
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-dun-nine-98.vercel.app/api/top-langs/?username=h-attari&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=h-attari&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
 
 ---
